@@ -15,4 +15,5 @@
 影视：
 - https://github.com/feiyeyuanye/FreeOkVideoPlugin
 - https://github.com/feiyeyuanye/KanHJVideoPlugin
+- https://github.com/feiyeyuanye/LIBVIOVideoPlugin
 
