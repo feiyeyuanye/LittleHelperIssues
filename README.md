@@ -7,15 +7,16 @@
 **个人插件汇总**
 
 动漫：
-- https://github.com/feiyeyuanye/SakuraAnime3Plugin (推荐)
+- https://github.com/feiyeyuanye/SakuraAnime3Plugin
 - https://github.com/feiyeyuanye/AGEAnimePlugin
-- https://github.com/feiyeyuanye/AnFunsAnimePlugin (推荐)
+- https://github.com/feiyeyuanye/AnFunsAnimePlugin
 - https://github.com/feiyeyuanye/ZzzFunAnimePlugin
+- https://github.com/feiyeyuanye/XfaniAnimePlugin
 
 影视：
 - https://github.com/feiyeyuanye/FreeOkVideoPlugin
-- https://github.com/feiyeyuanye/KanHJVideoPlugin (推荐)
-- https://github.com/feiyeyuanye/LIBVIOVideoPlugin (推荐)
+- https://github.com/feiyeyuanye/KanHJVideoPlugin
+- https://github.com/feiyeyuanye/LIBVIOVideoPlugin
 - https://github.com/feiyeyuanye/DsxysVodPlugin
-- https://github.com/feiyeyuanye/XiaoBaoTVVodPlugin (推荐)
+- https://github.com/feiyeyuanye/XiaoBaoTVVodPlugin
 
