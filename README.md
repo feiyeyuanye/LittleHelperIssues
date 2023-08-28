@@ -7,17 +7,17 @@
 **个人插件汇总**
 
 动漫：
-- https://github.com/feiyeyuanye/XfaniAnimePlugin
-- https://github.com/feiyeyuanye/SakuraAnime3Plugin
-- https://github.com/feiyeyuanye/AGEAnimePlugin
-- https://github.com/feiyeyuanye/AnFunsAnimePlugin
-- https://github.com/feiyeyuanye/ZzzFunAnimePlugin
+- [稀饭动漫](https://github.com/feiyeyuanye/XfaniAnimePlugin)
+- [樱花动漫](https://github.com/feiyeyuanye/SakuraAnime3Plugin)
+- [AGE动漫](https://github.com/feiyeyuanye/AGEAnimePlugin)
+- [AnFuns动漫](https://github.com/feiyeyuanye/AnFunsAnimePlugin)
+- [ZzzFun动漫](https://github.com/feiyeyuanye/ZzzFunAnimePlugin)
 
 影视：
-- https://github.com/feiyeyuanye/QiXiVodPlugin
-- https://github.com/feiyeyuanye/FreeOkVideoPlugin
-- https://github.com/feiyeyuanye/KanHJVideoPlugin
-- https://github.com/feiyeyuanye/LIBVIOVideoPlugin
-- https://github.com/feiyeyuanye/DsxysVodPlugin
-- https://github.com/feiyeyuanye/XiaoBaoTVVodPlugin
+- [七喜影院](https://github.com/feiyeyuanye/QiXiVodPlugin)
+- [FreeOk影视](https://github.com/feiyeyuanye/FreeOkVideoPlugin)
+- [看韩剧](https://github.com/feiyeyuanye/KanHJVideoPlugin)
+- [LIBVIO影视](https://github.com/feiyeyuanye/LIBVIOVideoPlugin)
+- [大师兄影视](https://github.com/feiyeyuanye/DsxysVodPlugin)
+- [小宝影视](https://github.com/feiyeyuanye/XiaoBaoTVVodPlugin)
 
