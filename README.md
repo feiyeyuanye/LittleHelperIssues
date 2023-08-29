@@ -20,4 +20,6 @@
 - [LIBVIO影视](https://github.com/feiyeyuanye/LIBVIOVideoPlugin)
 - [大师兄影视](https://github.com/feiyeyuanye/DsxysVodPlugin)
 - [小宝影视](https://github.com/feiyeyuanye/XiaoBaoTVVodPlugin)
+- [快看资源网](https://github.com/feiyeyuanye/KuaiKanVodPlugin)
+- [海外看资源站](https://github.com/feiyeyuanye/HaiwaikanVodPlugin)
 
