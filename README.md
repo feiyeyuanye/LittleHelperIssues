@@ -12,6 +12,7 @@
 - [AGE动漫](https://github.com/feiyeyuanye/AGEAnimePlugin)
 - [AnFuns动漫](https://github.com/feiyeyuanye/AnFunsAnimePlugin)
 - [ZzzFun动漫](https://github.com/feiyeyuanye/ZzzFunAnimePlugin)
+- [Hanime1动漫](https://github.com/feiyeyuanye/Hanime1Plugin) (R18)
 
 影视：
 - [七喜影院](https://github.com/feiyeyuanye/QiXiVodPlugin)
