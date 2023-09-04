@@ -15,5 +15,7 @@
 | [Hanime1动漫](https://github.com/feiyeyuanye/Hanime1Plugin) (NSFW)  | [小宝影视](https://github.com/feiyeyuanye/XiaoBaoTVVodPlugin) |
 |   | [快看资源网](https://github.com/feiyeyuanye/KuaiKanVodPlugin) |
 |   | [海外看资源站](https://github.com/feiyeyuanye/HaiwaikanVodPlugin) |
+|   | [暴风资源](https://github.com/feiyeyuanye/BFZYVodPlugin) |
+
 
 
