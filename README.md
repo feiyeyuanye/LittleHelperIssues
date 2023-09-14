@@ -17,7 +17,8 @@ AndroidX、MVVM、Composing build、[Material Design](https://m3.material.io/)�
 - PhotoView
 - Tencent Bugly
 - Tencent MMKV
-- Tencent Shadow
+- [Tencent Shadow](https://github.com/Tencent/Shadow '插件化框架')
+- [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer '视频播放器')
 - ......
 
 ## 参考资料
@@ -25,5 +26,4 @@ AndroidX、MVVM、Composing build、[Material Design](https://m3.material.io/)�
 - [AndroidProject-Kotlin](https://github.com/getActivity/AndroidProject-Kotlin "安卓技术中台")
 - [XUI](https://github.com/xuexiangjys/XUI/blob/master/README_ZH.md)
 - [MaterialDesign](https://github.com/yechaoa/MaterialDesign)
-- [Design-WanAndroid](https://github.com/Lowae/Design-WanAndroid)
 - ......
